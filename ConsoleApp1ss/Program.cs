@@ -1,5 +1,5 @@
 ﻿using System;
-//ffdjllk
+
 namespace SimpleEvent
 {
     using System;
